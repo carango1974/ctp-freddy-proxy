@@ -1,0 +1,9 @@
+{
+  "name": "ctp-freddy-proxy",
+  "version": "1.0.0",
+  "description": "Local proxy for CTP Maps Freddy chatbot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
